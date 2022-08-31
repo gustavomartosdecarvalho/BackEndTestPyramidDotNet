@@ -1,0 +1,8 @@
+.vscode
+
+*.db
+
+Alimentacao_App/bin
+Alimentacao_App/obj
+Alimentacao_Test/bin
+Alimentacao_Test/obj
